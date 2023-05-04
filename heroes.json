@@ -1,0 +1,49 @@
+{
+  "heroes": [
+    {
+      "id": "36e768e3-0592-4bd1-aecf-8856c972ff4c",
+      "name": "Ети",
+      "description": "пердеть",
+      "element": "earth"
+    },
+    {
+      "id": "0cda1804-236e-4db0-a111-ae99d627c9c4",
+      "name": "samrat",
+      "description": "ушами махать\n",
+      "element": ""
+    },
+    {
+      "id": "c72c4ab0-3fc4-4dec-8bfc-1d937ac45418",
+      "name": "Исмаил Исмаилов",
+      "description": "ver",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
